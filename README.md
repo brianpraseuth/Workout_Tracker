@@ -1,5 +1,7 @@
 # Workout Tracker
 
+Link to application: https://floating-temple-44539.herokuapp.com/?id=5fa486435479a70017fe6a50
+
 A web application for tracking and adding workouts. The user can add, edit, and save workout information in to a MongoDB database that will populate a dashboard with their exercise information!
 
 ![Screen Shot 2020-11-05 at 2 50 50 PM](https://user-images.githubusercontent.com/66890142/98305229-53f37c00-1f76-11eb-8ebb-df79fba2d558.png)
